@@ -1,11 +1,11 @@
 <h1>Instalação</h1>
-Para este projeto, é necessário instalar:<br>
+Para este projeto, é necessário instalar:<br><br>
 1) pandas -> pip install pandas<br>
 2) seaborn -> pip install seaborn<br>
 3) matplotlib -> pip install matplotlib<br>
 4) sklearn -> pip install scikit-learn<br>
 5) jupyter notebook -> pip install notebook<br>
-5) wordcloud (opcional) -> pip install wordcloud<br>
+5) wordcloud (opcional) -> pip install wordcloud<br><br>
 
 Caso opte por não instalar o wordcloud, não execute as linhas correspondentes à nuvem de palavras.
 <hr>
