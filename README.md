@@ -1,12 +1,12 @@
 <h1>Instalação</h1>
 Para este projeto, é necessário instalar:<br>
-1) pandas -> pip install pandas
-2) seaborn -> pip install seaborn
-3) matplotlib -> pip install matplotlib
-4) sklearn -> pip install scikit-learn
-5) jupyter notebook -> pip install notebook
-5) wordcloud (opcional) -> pip install wordcloud
-<br>
+1) pandas -> pip install pandas<br>
+2) seaborn -> pip install seaborn<br>
+3) matplotlib -> pip install matplotlib<br>
+4) sklearn -> pip install scikit-learn<br>
+5) jupyter notebook -> pip install notebook<br>
+5) wordcloud (opcional) -> pip install wordcloud<br>
+
 Caso opte por não instalar o wordcloud, não execute as linhas correspondentes à nuvem de palavras.
 <hr>
 <h1>Execução</h1>
