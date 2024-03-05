@@ -6,7 +6,7 @@ Para este projeto, é necessário instalar:<br>
 4) sklearn -> pip install scikit-learn
 5) jupyter notebook -> pip install notebook
 5) wordcloud (opcional) -> pip install wordcloud
-
+<br>
 Caso opte por não instalar o wordcloud, não execute as linhas correspondentes à nuvem de palavras.
 <hr>
 <h1>Execução</h1>
